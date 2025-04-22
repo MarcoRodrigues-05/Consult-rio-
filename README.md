@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Consultório Médico
+# Sistema de Gerenciamento de Consultório
 
 Este é um sistema desenvolvido em Java para gerenciar consultórios médicos. Ele permite o cadastro, consulta, edição e exclusão de médicos, pacientes, consultórios e agendamentos, além de realizar o agendamento de consultas de forma eficiente.
 
